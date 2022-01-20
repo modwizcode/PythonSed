@@ -44,7 +44,7 @@ if __name__ == "__main__":
             url='https://github.com/GillesArcas/PythonSed',
             author='Gilles Arcas',
             author_email='gilles.arcas@gmail.com',
-            description='Full and working implementation of sed in python\n',
+            description='Full and working implementation of sed in python',
             packages=find_packages(),
             entry_points={
                 'console_scripts': ['pythonsed = PythonSed.sed:main']
